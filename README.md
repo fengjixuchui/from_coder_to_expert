@@ -1,4 +1,4 @@
-### 2020年最新总结，从程序员到CTO，从专业走向卓越，企业内部分享文档pdf与PPT整理
+### 2021年最新总结，从程序员到CTO，从专业走向卓越，企业内部分享文档pdf与PPT整理
 
 ### 整理大牛分享文档如下，持续更新一线开发架构，技术文档
 ##### 网易蜂巢公有容器云架构之路
@@ -135,7 +135,8 @@
 
 ---
 
-**每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注github文档**
+**每天晚上8点免费技术分享直播，扫码即可加入【wx:cz1625358265】，小姐姐给你发每天的直播链接，备注github文档**
+**直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
 
 ![image](https://github.com/0voice/interview_internal_reference/blob/master/contact.jpg)
 
